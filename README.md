@@ -1,4 +1,4 @@
-#Hi 👋, I'm Filippo 
+# Hi 👋, I'm Filippo 
 
 I'm a software developer based in Italy that likes to always try out new things and ideas.
 
