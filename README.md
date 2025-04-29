@@ -1,16 +1,17 @@
-## Hi there 👋
+#Hi 👋, I'm Filippo 
 
-<!--
-**FilippoDude/FilippoDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Italy that likes to always try out new things and ideas.
 
-Here are some ideas to get you started:
+## 👨‍💻 Languages I work mostly with:
+- **Typescript** (Mostly)
+- **HTML**
+- **CSS**
+- **REACT** (also NextJS)
+- **JAVA**
+- **KOTLIN** (only for android app development)
+- **FLUTTER** (mobile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I'm most proud of:
+- Widgets Crate | A mobile app for android made with Flutter and native Kotlin code that allows you to add cool and unique widgets.
+
+Of course i have smaller projects an other pages... *just check my repositories and find out!*
