@@ -13,6 +13,7 @@ I'm a software developer based in Italy that likes to always try out new things 
 
 ## Projects I'm most proud of:
 - Widgets Crate | A mobile app for android made with Flutter and native Kotlin code that allows you to add cool and unique widgets.
+- My portfolio website | While not being a service or tool, i'm still pretty proud of it
 
 I also do 3D modelling in Blender (see on socials)
 
